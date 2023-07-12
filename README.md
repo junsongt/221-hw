@@ -1,2 +1,2 @@
 # 221-hw
-Programming Assignments
+CPSC221 Programming Assignments
